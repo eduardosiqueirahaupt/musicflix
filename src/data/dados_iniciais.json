@@ -1,50 +1,42 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Funk",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "MC Lele JP - Tiger Preta (GR6 Filmes) DJ Pedro",
+        "url": "https://www.youtube.com/watch?v=ZoZVaYjo56I"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "MC Lele JP - Tiger Preta (GR6 Filmes) DJ Pedro",
+          "url": "https://www.youtube.com/watch?v=ZoZVaYjo56I"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Set Djay W - MC Hariel, MC Kevin, MC Davi e MC Don Juan (GR6 Filmes)",
+          "url": "https://www.youtube.com/watch?v=qIjq_FCZdNw"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "MC Bola e MC Magal - Positividade (GR6 Filmes) Djay W",
+          "url": "https://www.youtube.com/watch?v=TT2-_L06FKc"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "MC PP da VS - 40 Metros",
+          "url": "https://www.youtube.com/watch?v=dnJ03CyGST8"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "MC G15 e MC Livinho - Ela Vem (GR6 Filmes) Perera DJ",
+          "url": "https://www.youtube.com/watch?v=Sn0wA_ERHVU"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "MC Don Juan e MC Hariel - Lei do Retorno (GR6 Filmes)",
+          "url": "https://www.youtube.com/watch?v=IxfvjGJlrC4"
+        }      
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Drake",
       "cor": "#00C86F",
       "link_extra": {
         "text": "Cursos de Back End na Alura",
@@ -52,21 +44,21 @@
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Drake - God's Plan",
+          "url": "https://www.youtube.com/watch?v=xpVfcZ0ZcFM"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Future - Life Is Good (Official Music Video) ft. Drake",
+          "url": "https://www.youtube.com/watch?v=l0U7SxXHkPY"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Travis Scott - SICKO MODE ft. Drake (Official Video)",
+          "url": "https://www.youtube.com/watch?v=6ONRf7h3Mdk"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
+          "titulo": "Drake - Toosie Slide",
+          "url": "https://www.youtube.com/watch?v=xWggTb45brM"
+        },
         {
           "titulo": "Usando Git Direito",
           "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
@@ -74,7 +66,7 @@
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Eletronica",
       "cor": "#9cd33b",
       "link_extra": {
         "text": "Cursos de Data Science na Alura",
@@ -82,104 +74,40 @@
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Aaron Smith - Dancin (KRONO Remix)",
+          "url": "https://www.youtube.com/watch?v=0XFudmaObLI"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "NAVE ESPACIAL - Liu & Samantha Machado (Videoclipe Oficial)",
+          "url": "https://www.youtube.com/watch?v=LQ-7iWrVAxU&list=RDGMEMYH9CUrFO7CfLJpaD7UR85w&start_radio=1"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
-        },
-        {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Alok, Bruno Martini, Zeeba - Never Let Me Go (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=ri-fIya76ac&list=RDGMEMYH9CUrFO7CfLJpaD7UR85w&index=11"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "MegaFunk",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "MEGA FIQUEI VICIADO (DJ KAYNAN SC) JULHO 2020",
+          "url": "https://www.youtube.com/watch?v=f-qq6aiHTBo"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "MEGA TIGER PRETA JANEIRO (DJ JONATAS FELIPE)",
+          "url": "https://www.youtube.com/watch?v=PiNFE9aarNU"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "MEGA ÁGUA COCA LATÃO (DJ JONATAS FELIPE)",
+          "url": "https://www.youtube.com/watch?v=5cX0PK7nNFk"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "MEGA SÓ DA MAMICA AGOSTO DJ JONATAS FELIPE",
+          "url": "https://www.youtube.com/watch?v=yBjcUr28d30"
         }
       ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
-      "videos": [
-        {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-        },
-        {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-        },
-        {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
-        }
-      ]
-    }
+    }    
   ]
 }

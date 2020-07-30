@@ -1,18 +1,18 @@
 import React from 'react';
-import Menu from './components/menu';
-import BannerMain from './components/BannerMain'
-import dadosIniciais from './data/dados_iniciais.json'
-import Carousel from './components/Carousel'
-import { Container } from './style-app'
+import Menu from '../../components/menu';
+import BannerMain from '../../components/BannerMain'
+import dadosIniciais from '../../data/dados_iniciais.json'
+import Carousel from '../../components/Carousel'
+import { Container } from '../../style-app'
 
-const App = () => {
+const Home = () => {
   return (
     <Container>
       <Menu />
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"Teste"}
+        videoDescription={""}
       />
 
       <Carousel
@@ -31,11 +31,11 @@ const App = () => {
         category={dadosIniciais.categorias[3]}
       />
 
-      <Carousel
+      {/* <Carousel
         category={dadosIniciais.categorias[4]}
-      />
+      /> */}
     </Container>
   );
 }
 
-export default App;
+export default Home;

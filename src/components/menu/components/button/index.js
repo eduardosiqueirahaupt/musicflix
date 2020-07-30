@@ -21,7 +21,6 @@ const Button = styled.a`
   }
   
   @media (max-width: 800px) {
-
       position: fixed;
       left: 0;
       right: 0;
