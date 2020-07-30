@@ -4,10 +4,6 @@
       "titulo": "Funk",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "MC Lele JP - Tiger Preta (GR6 Filmes) DJ Pedro",
-        "url": "https://www.youtube.com/watch?v=ZoZVaYjo56I"
-      },
       "videos": [
         {
           "titulo": "MC Lele JP - Tiger Preta (GR6 Filmes) DJ Pedro",
@@ -37,11 +33,7 @@
     },
     {
       "titulo": "Drake",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
+      "cor": "#00C86F",     
       "videos": [
         {
           "titulo": "Drake - God's Plan",
@@ -68,10 +60,6 @@
     {
       "titulo": "Eletronica",
       "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
       "videos": [
         {
           "titulo": "Aaron Smith - Dancin (KRONO Remix)",
